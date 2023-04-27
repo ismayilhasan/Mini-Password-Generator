@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YVaSh2inXH7+YsLunzlin4naPkpe5i2q5efqM7cfnmYpLi+QB6+fusMPsayJYYdmOkeCPazcbwaImY2Fib6P6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ismayil Hasanov\\source\\repos\\Password Generator\\Password Generator\\Password Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ismayil Hasanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
